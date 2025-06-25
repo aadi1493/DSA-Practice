@@ -17,6 +17,7 @@ Topic Wise Folders containing well structured solutions to various DSA problems 
 || C++
 || C
 || Java
+|| Resources
 || README.md
 
 ------------------------------------------------
