@@ -1,7 +1,7 @@
+## Java DSA Solutions
 
-
-
-
+This Folder Contains all Java-based implementationsof DSA problems.
+Organized Topic-wise :
 || Arrays
 || Strings
 || Linked List
@@ -10,4 +10,3 @@
 || Recursion
 || Trees
 || Graphs
-|| Dynamic Programming
