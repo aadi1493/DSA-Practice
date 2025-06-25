@@ -11,7 +11,7 @@ Topic Wise Folders containing well structured solutions to various DSA problems 
 [LeetCode](https://leetcode.com/u/adityasinha_1190/)
 [GeekforGeeks](https://www.geeksforgeeks.org/user/adityasidglz/)
 [HackerRank](https://www.hackerrank.com/profile/adityasinha1493)
-[Resources](Personal Practice Sheets)
+[Resources](https://github.com/aadi1493/DSA-Practice/tree/8c1e3a5803f5546632356a622fc2ce513138c47a/Resources)
 
 -----------------------------------------------
 
