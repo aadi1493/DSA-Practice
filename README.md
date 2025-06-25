@@ -14,15 +14,9 @@ Topic Wise Folders containing well structured solutions to various DSA problems 
 -----------------------------------------------
 
 ##Folder Structure
-|| Arrays
-|| Strings
-|| Linked List
-|| Stack
-|| Queue
-|| Recursion
-|| Trees
-|| Graphs
-|| Dynamic Programming
+|| Java
+|| C
+|| C++
 || README.md
 
 ------------------------------------------------
