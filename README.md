@@ -1,7 +1,7 @@
 # DSA-Practice
 Data Structures and Algorithm Practice (Java, C, C++)
 Welcome to My Data Structures and Algorithm (DSA) Practice Repository!
-This Repo is a Reference of My Daily Problem Solving grind, built as a core part of my Academi and Skill Development
+This Repo is a Reference of My Daily Problem Solving grind, built as a core part of my Academic and Skill Development
 
 
 ----------------------------------------------
